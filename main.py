@@ -19,7 +19,7 @@ logging.basicConfig(level=logging.INFO,
                     format="%(asctime)s [%(levelname)s] %(name)s: %(message)s")
 logger = logging.getLogger(__name__)
  
-BOT_TOKEN    = os.getenv("8872778735:AAE8C1KkGrVDzxjEcJr3FXb-GcmNY0rcTIs", "8872778735:AAE8C1KkGrVDzxjEcJr3FXb-GcmNY0rcTIs")
+BOT_TOKEN    = os.getenv("8872778735:AAE8C1KkGrVDzxjEcJr3FXb-GcmNY0rcTIs", "8641638446:AAGUwSyIiGBHAnUJfWPunS0rwhiLt6SoPWg")
 LOTTIES_DIR  = Path("lotties")
 LOGO_ID      = "mylogo" #DON'T TOUCH!
 COLOR_BA     = "BA0047" #DON'T TOUCH!
